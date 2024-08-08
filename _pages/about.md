@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Trento</a>.
+subtitle: Ph.D. Student @ University of Trento # <a href='#'>University of Trento</a>.
 
 profile:
   align: right
