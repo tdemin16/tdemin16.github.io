@@ -2,11 +2,19 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
+description: Teaching experience at the University of Trento.
+nav: true
 nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Deep Learning Teaching Assistant
 
-Organize your courses by years, topics, or universities, however you like!
+**University of Trento · February 2025 – February 2026**
+
+I delivered PyTorch labs covering MLP, LeNet, and CLIP using Google Colab and AWS, and designed a project on few-shot CLIP adaptation using the Oxford Flowers dataset. I also graded projects, which contributed one third of the final course grade.
+
+## Course Tutor for Programming and Deep Learning
+
+**University of Trento · September 2022 – June 2023**
+
+I designed and evaluated C/C++ programming exercises, assessed deep learning student projects, and led oral evaluations.

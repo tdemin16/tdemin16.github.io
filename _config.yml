@@ -6,13 +6,13 @@ title: Thomas De Min # the website title (if blank, full name will be used inste
 first_name: Thomas
 middle_name:
 last_name: De Min
-email: thomas.demin@unitn.it
-description: This website is a work in progress... # the ">" symbol means to ignore newlines until "footer_text:"
+email: thomasdemin16@gmail.com
+description: Thomas De Min is a Ph.D. student at the University of Trento researching multimodal LLMs, post-training, continual learning, and machine unlearning.
 footer_text:
   # Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: # jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: Thomas De Min, multimodal LLMs, LLM post-training, continual learning, machine unlearning, deep learning
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 👾 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 

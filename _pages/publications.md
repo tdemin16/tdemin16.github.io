@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Here is the list of publications I contributed to.
+description: Research on multimodal LLMs, post-training, continual learning, and machine unlearning.
 nav: true
 nav_order: 2
 ---
