@@ -2,235 +2,235 @@
 - title: General Information
   type: map
   contents:
-  - name: Full Name
-    value: Thomas De Min
-  - name: Email
-    value: thomasdemin16@gmail.com
-  - name: About
-    value: I am a Ph.D. student at the University of Trento, supervised by Prof. Elisa
-      Ricci and Dr. Massimiliano Mancini. My research focuses on multimodal large
-      language models, proactiveness, and how post-training shapes factual knowledge,
-      building on earlier work in continual learning and machine unlearning.
+    - name: Full Name
+      value: Thomas De Min
+    - name: Email
+      value: thomasdemin16@gmail.com
+    - name: About
+      value: I am a Ph.D. student at the University of Trento, supervised by Prof. Elisa
+        Ricci and Dr. Massimiliano Mancini. My research focuses on multimodal large
+        language models, proactiveness, and how post-training shapes factual knowledge,
+        building on earlier work in continual learning and machine unlearning.
 - title: Education
   type: time_table
   contents:
-  - title: Ph.D. in Information Engineering and Computer Science
-    institution: University of Trento
-    year: 2023-11 - 2027-11
-    description:
-    - Supervised by Prof. Elisa Ricci and Dr. Massimiliano Mancini.
-    - 'Expected completion: November 2027.'
-  - title: M.Sc. in Artificial Intelligence Systems
-    institution: University of Trento
-    year: 2021-09 - 2023-07
-    description:
-    - 110/110 cum laude.
+    - title: Ph.D. in Information Engineering and Computer Science
+      institution: University of Trento
+      year: 2023-11 - 2027-11
+      description:
+        - Supervised by Prof. Elisa Ricci and Dr. Massimiliano Mancini.
+        - "Expected completion: November 2027."
+    - title: M.Sc. in Artificial Intelligence Systems
+      institution: University of Trento
+      year: 2021-09 - 2023-07
+      description:
+        - 110/110 cum laude.
 - title: Experience and Teaching
   type: time_table
   contents:
-  - title: Visiting Researcher
-    institution: FunAI Lab - Prof. Yuki Asano
-    location: Nuremberg, Germany
-    year: 2026-01 - 2026-06
-    description:
-    - Investigated factual knowledge acquisition, loss, and reappearance during LLM
-      post-training.
-  - title: Deep Learning Teaching Assistant
-    institution: University of Trento
-    location: Trento, Italy
-    year: 2025-02 - 2026-02
-    description:
-    - Delivered PyTorch labs covering MLP, LeNet, and CLIP using Google Colab and
-      AWS.
-    - Designed a few-shot CLIP adaptation project on the Oxford Flowers dataset.
-    - Graded projects contributing one third of the final course grade.
-  - title: Research Intern
-    institution: Inria - Thoth
-    location: Grenoble, France
-    year: 2023-02 - 2023-05
-    description:
-    - Developed a state-of-the-art class-incremental learning method using parameter-efficient
-      fine-tuning and vision transformers.
-    - Reduced computational overhead compared to previous methods.
-    - Work awarded an oral presentation at the ICCV 2023 VCL Workshop.
-  - title: Course Tutor for Programming and Deep Learning
-    institution: University of Trento
-    location: Trento, Italy
-    year: 2022-09 - 2023-06
-    description:
-    - Designed and evaluated C/C++ programming exercises.
-    - Assessed student projects and led oral evaluations in deep learning.
-  - title: AI Engineer Intern
-    institution: BlueTensor
-    location: Trento, Italy
-    year: 2021-05 - 2021-10
-    description:
-    - Delivered computer vision pipelines for panoptic segmentation, object recognition,
-      and face re-identification.
-    - Engineered behavior clustering using BERT and k-means.
-    - Designed multi-camera tracking infrastructure.
+    - title: Visiting Researcher
+      institution: FunAI Lab - Prof. Yuki Asano
+      location: Nuremberg, Germany
+      year: 2026-01 - 2026-06
+      description:
+        - Investigated factual knowledge acquisition, loss, and reappearance during LLM
+          post-training.
+    - title: Deep Learning Teaching Assistant
+      institution: University of Trento
+      location: Trento, Italy
+      year: 2025-02 - 2026-02
+      description:
+        - Delivered PyTorch labs covering MLP, LeNet, and CLIP using Google Colab and
+          AWS.
+        - Designed a few-shot CLIP adaptation project on the Oxford Flowers dataset.
+        - Graded projects contributing one third of the final course grade.
+    - title: Research Intern
+      institution: Inria - Thoth
+      location: Grenoble, France
+      year: 2023-02 - 2023-05
+      description:
+        - Developed a state-of-the-art class-incremental learning method using parameter-efficient
+          fine-tuning and vision transformers.
+        - Reduced computational overhead compared to previous methods.
+        - Work awarded an oral presentation at the ICCV 2023 VCL Workshop.
+    - title: Course Tutor for Programming and Deep Learning
+      institution: University of Trento
+      location: Trento, Italy
+      year: 2022-09 - 2023-06
+      description:
+        - Designed and evaluated C/C++ programming exercises.
+        - Assessed student projects and led oral evaluations in deep learning.
+    - title: AI Engineer Intern
+      institution: BlueTensor
+      location: Trento, Italy
+      year: 2021-05 - 2021-10
+      description:
+        - Delivered computer vision pipelines for panoptic segmentation, object recognition,
+          and face re-identification.
+        - Engineered behavior clustering using BERT and k-means.
+        - Designed multi-camera tracking infrastructure.
 - title: Publications
   type: time_table
   contents:
-  - title: <a href="https://openreview.net/forum?id=kbMlZBRXVn">Did Your LLM Really
-      Forget? Measuring Factual Recall During LLM Post-Training</a>
-    year: '2026'
-    institution: Under review
-    description:
-    - Thomas De Min, Dawid J. Kopiczko, Stéphane Lathuilière, Elisa Ricci, Massimiliano
-      Mancini, Yuki M. Asano
-  - title: '<a href="https://arxiv.org/abs/2606.28551">DataComp-VLM: Improved open
-      datasets for Vision-Language Models</a>'
-    year: '2026'
-    institution: NeurIPS
-    description:
-    - Matteo Farina, Vishaal Udandarao, Thao Nguyen, Selim Kuzucu, Maximilian Böther,
-      Andreas Hochlehnert, Adhiraj Ghosh, Marianna Nezhurina, Karsten Roth, Joschka
-      Strüber, Yuhui Zhang, Sebastian Dziadzio, Elaine Sui, Soumya Shamarao Jahagirdar,
-      Dhruba Ghosh, Hasan Abed Al Kader Hammoud, Thomas De Min, Simone Caldarella,
-      Muhammad Jehanzeb Mirza, Sedrick Keh, Mehdi Cherti, Hilde Kuehne, Bernt Schiele,
-      Serena Yeung-Levy, Muhammad Ferjad Naeem, Federico Tombari, Ana Klimovic, Elisa
-      Ricci, Matthias Bethge, Sewoong Oh, Ameya Prabhu, Alessio Tonioni, Jenia Jitsev,
-      Massimiliano Mancini, Ludwig Schmidt, Nikhil Parthasarathy
-  - title: '<a href="https://arxiv.org/abs/2603.19466">ProactiveBench: Benchmarking
-      Proactiveness in Multimodal LLMs</a>'
-    year: '2026'
-    institution: ECCV
-    description:
-    - Thomas De Min, Subhankar Roy, Stéphane Lathuilière, Elisa Ricci, Massimiliano
-      Mancini
-  - title: '<a href="https://arxiv.org/pdf/2607.21300">Unlearning Under Imbalance:
-      Benchmarking Fairness in Multimodal LLM Unlearning</a>'
-    year: '2026'
-    institution: ECCVW
-    description:
-    - Lorenzo Orsingher, Thomas De Min, Massimiliano Mancini, Davide Talon, Elisa
-      Ricci
-  - title: <a href="https://openreview.net/forum?id=StSq7mpUVw">Group-robust Machine
-      Unlearning</a>
-    year: '2025'
-    institution: TMLR
-    description:
-    - Thomas De Min, Subhankar Roy, Stéphane Lathuilière, Elisa Ricci, Massimiliano
-      Mancini
-  - title: <a href="https://openreview.net/pdf?id=VxC4PZ71Ym">Unlearning Personal
-      Data from a Single Image</a>
-    year: '2025'
-    institution: TMLR
-    description:
-    - Thomas De Min, Massimiliano Mancini, Stéphane Lathuilière, Subhankar Roy, Elisa
-      Ricci
-  - title: <a href="https://link.springer.com/chapter/10.1007/978-3-031-78189-6_5">Conditioned
-      Prompt-Optimization for Continual Deepfake Detection</a>
-    year: '2024'
-    institution: ICPR
-    description:
-    - Francesco Laiti, Benedetta Liberatori, Thomas De Min, Elisa Ricci
-  - title: '<a href="https://proceedings.mlr.press/v274/min25a.html">Less is more:
-      Summarizing Patch Tokens for efficient Multi-Label Class-Incremental Learning</a>'
-    year: '2024'
-    institution: CoLLAs
-    description:
-    - Thomas De Min, Massimiliano Mancini, Stéphane Lathuilière, Subhankar Roy, Elisa
-      Ricci
-  - title: <a href="https://ieeexplore.ieee.org/abstract/document/10350917">On the
-      Effectiveness of LayerNorm Tuning for Continual Learning in Vision Transformers</a>
-    year: '2023'
-    institution: ICCVW
-    description:
-    - Thomas De Min, Massimiliano Mancini, Karteek Alahari, Xavier Alameda-Pineda,
-      Elisa Ricci
+    - title: <a href="https://openreview.net/forum?id=kbMlZBRXVn">Did Your LLM Really
+        Forget? Measuring Factual Recall During LLM Post-Training</a>
+      year: "2026"
+      institution: Under review
+      description:
+        - Thomas De Min, Dawid J. Kopiczko, Stéphane Lathuilière, Elisa Ricci, Massimiliano
+          Mancini, Yuki M. Asano
+    - title: '<a href="https://arxiv.org/abs/2606.28551">DataComp-VLM: Improved open
+        datasets for Vision-Language Models</a>'
+      year: "2026"
+      institution: NeurIPS
+      description:
+        - Matteo Farina, Vishaal Udandarao, Thao Nguyen, Selim Kuzucu, Maximilian Böther,
+          Andreas Hochlehnert, Adhiraj Ghosh, Marianna Nezhurina, Karsten Roth, Joschka
+          Strüber, Yuhui Zhang, Sebastian Dziadzio, Elaine Sui, Soumya Shamarao Jahagirdar,
+          Dhruba Ghosh, Hasan Abed Al Kader Hammoud, Thomas De Min, Simone Caldarella,
+          Muhammad Jehanzeb Mirza, Sedrick Keh, Mehdi Cherti, Hilde Kuehne, Bernt Schiele,
+          Serena Yeung-Levy, Muhammad Ferjad Naeem, Federico Tombari, Ana Klimovic, Elisa
+          Ricci, Matthias Bethge, Sewoong Oh, Ameya Prabhu, Alessio Tonioni, Jenia Jitsev,
+          Massimiliano Mancini, Ludwig Schmidt, Nikhil Parthasarathy
+    - title: '<a href="https://arxiv.org/abs/2603.19466">ProactiveBench: Benchmarking
+        Proactiveness in Multimodal LLMs</a>'
+      year: "2026"
+      institution: ECCV
+      description:
+        - Thomas De Min, Subhankar Roy, Stéphane Lathuilière, Elisa Ricci, Massimiliano
+          Mancini
+    - title: '<a href="https://arxiv.org/pdf/2607.21300">Unlearning Under Imbalance:
+        Benchmarking Fairness in Multimodal LLM Unlearning</a>'
+      year: "2026"
+      institution: ECCVW
+      description:
+        - Lorenzo Orsingher, Thomas De Min, Massimiliano Mancini, Davide Talon, Elisa
+          Ricci
+    - title: <a href="https://openreview.net/forum?id=StSq7mpUVw">Group-robust Machine
+        Unlearning</a>
+      year: "2025"
+      institution: TMLR
+      description:
+        - Thomas De Min, Subhankar Roy, Stéphane Lathuilière, Elisa Ricci, Massimiliano
+          Mancini
+    - title: <a href="https://openreview.net/pdf?id=VxC4PZ71Ym">Unlearning Personal
+        Data from a Single Image</a>
+      year: "2025"
+      institution: TMLR
+      description:
+        - Thomas De Min, Massimiliano Mancini, Stéphane Lathuilière, Subhankar Roy, Elisa
+          Ricci
+    - title: <a href="https://link.springer.com/chapter/10.1007/978-3-031-78189-6_5">Conditioned
+        Prompt-Optimization for Continual Deepfake Detection</a>
+      year: "2024"
+      institution: ICPR
+      description:
+        - Francesco Laiti, Benedetta Liberatori, Thomas De Min, Elisa Ricci
+    - title: '<a href="https://proceedings.mlr.press/v274/min25a.html">Less is more:
+        Summarizing Patch Tokens for efficient Multi-Label Class-Incremental Learning</a>'
+      year: "2024"
+      institution: CoLLAs
+      description:
+        - Thomas De Min, Massimiliano Mancini, Stéphane Lathuilière, Subhankar Roy, Elisa
+          Ricci
+    - title: <a href="https://ieeexplore.ieee.org/abstract/document/10350917">On the
+        Effectiveness of LayerNorm Tuning for Continual Learning in Vision Transformers</a>
+      year: "2023"
+      institution: ICCVW
+      description:
+        - Thomas De Min, Massimiliano Mancini, Karteek Alahari, Xavier Alameda-Pineda,
+          Elisa Ricci
 - title: Honors and Grants
   type: time_table
   contents:
-  - title: Outstanding / Top Reviewer
-    year: '2025'
-    institution: CVPR
-    description:
-    - Recognized in 2025 and 2026.
-  - title: Outstanding / Top Reviewer
-    year: '2026'
-    institution: NeurIPS
-    description: []
-  - title: Oral Presentation
-    year: '2023'
-    institution: ICCV VCL Workshop
-    description: []
-  - title: Oral Presentation
-    year: '2026'
-    institution: ECCV U&Me Workshop
-    description: []
-  - title: ISCRA-B Grant
-    year: ''
-    institution: ''
-    description:
-    - 200,000 GPU hours on Leonardo (Italy).
-  - title: ISCRA-C Grants (×3)
-    year: ''
-    institution: ''
-    description:
-    - 10,000 GPU hours on Leonardo (Italy).
-  - title: EuroHPC Grant
-    year: ''
-    institution: ''
-    description:
-    - 8,000 GPU hours on Marenostrum (Spain).
-  - title: EuroHPC Grant
-    year: ''
-    institution: ''
-    description:
-    - 300,000 GPU hours on Leonardo (Italy).
+    - title: Outstanding / Top Reviewer
+      year: "2025"
+      institution: CVPR
+      description:
+        - Recognized in 2025 and 2026.
+    - title: Outstanding / Top Reviewer
+      year: "2026"
+      institution: NeurIPS
+      description: []
+    - title: Oral Presentation
+      year: "2023"
+      institution: ICCV VCL Workshop
+      description: []
+    - title: Oral Presentation
+      year: "2026"
+      institution: ECCV U&Me Workshop
+      description: []
+    - title: ISCRA-B Grant
+      year: ""
+      institution: ""
+      description:
+        - 200,000 GPU hours on Leonardo (Italy).
+    - title: ISCRA-C Grants (×3)
+      year: ""
+      institution: ""
+      description:
+        - 10,000 GPU hours on Leonardo (Italy).
+    - title: EuroHPC Grant
+      year: ""
+      institution: ""
+      description:
+        - 8,000 GPU hours on Marenostrum (Spain).
+    - title: EuroHPC Grant
+      year: ""
+      institution: ""
+      description:
+        - 300,000 GPU hours on Leonardo (Italy).
 - title: Academic Service
   type: nested_list
   contents:
-  - title: Conferences
-    items:
-    - 'CVPR: 2024, 2025, 2026'
-    - 'ICLR: 2026, 2027'
-    - 'NeurIPS: 2026'
-    - 'AAAI: 2027'
-    - 'ICPR: 2024'
-  - title: Journals
-    items:
-    - IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
-    - Neural Networks
-    - IEEE Robotics and Automation Letters (RA-L)
-    - Computer Vision and Image Understanding (CVIU)
+    - title: Conferences
+      items:
+        - "CVPR: 2024, 2025, 2026"
+        - "ICLR: 2026, 2027"
+        - "NeurIPS: 2026"
+        - "AAAI: 2027"
+        - "ICPR: 2024"
+    - title: Journals
+      items:
+        - IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
+        - Neural Networks
+        - IEEE Robotics and Automation Letters (RA-L)
+        - Computer Vision and Image Understanding (CVIU)
 - title: Skills
   type: nested_list
   contents:
-  - title: Model Training
-    items:
-    - Supervised and self-supervised vision encoders
-    - Multimodal LLM fine-tuning
-    - LLM post-training with reinforcement learning and distillation
-    - GRPO
-    - On-policy self-distillation
-    - Multi-node distributed training
-  - title: Tools and Methods
-    items:
-    - PyTorch
-    - Google Colab
-    - AWS
-    - Parameter-efficient fine-tuning
-    - Vision transformers
-    - BERT
-    - k-means
+    - title: Model Training
+      items:
+        - Supervised and self-supervised vision encoders
+        - Multimodal LLM fine-tuning
+        - LLM post-training with reinforcement learning and distillation
+        - GRPO
+        - On-policy self-distillation
+        - Multi-node distributed training
+    - title: Tools and Methods
+      items:
+        - PyTorch
+        - Google Colab
+        - AWS
+        - Parameter-efficient fine-tuning
+        - Vision transformers
+        - BERT
+        - k-means
 - title: Research Interests
   type: list
   contents:
-  - Multimodal large language models
-  - Proactiveness in multimodal LLMs
-  - Factual knowledge in LLM post-training
-  - Continual learning
-  - Machine unlearning
-  - Deep learning architectures
-  - Model efficiency
-  - Video LLMs
+    - Multimodal large language models
+    - Proactiveness in multimodal LLMs
+    - Factual knowledge in LLM post-training
+    - Continual learning
+    - Machine unlearning
+    - Deep learning architectures
+    - Model efficiency
+    - Video LLMs
 - title: Languages
   type: map
   contents:
-  - name: Italian
-    value: Native speaker
-  - name: English
-    value: Fluent
+    - name: Italian
+      value: Native speaker
+    - name: English
+      value: Fluent

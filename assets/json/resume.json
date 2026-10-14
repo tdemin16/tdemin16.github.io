@@ -66,10 +66,7 @@
       "url": "https://www.unitn.it/",
       "startDate": "2022-09",
       "endDate": "2023-06",
-      "highlights": [
-        "Designed and evaluated C/C++ programming exercises.",
-        "Assessed student projects and led oral evaluations in deep learning."
-      ]
+      "highlights": ["Designed and evaluated C/C++ programming exercises.", "Assessed student projects and led oral evaluations in deep learning."]
     },
     {
       "name": "BlueTensor",
@@ -93,10 +90,7 @@
       "studyType": "Ph.D.",
       "startDate": "2023-11",
       "endDate": "2027-11",
-      "courses": [
-        "Supervised by Prof. Elisa Ricci and Dr. Massimiliano Mancini.",
-        "Expected completion: November 2027."
-      ]
+      "courses": ["Supervised by Prof. Elisa Ricci and Dr. Massimiliano Mancini.", "Expected completion: November 2027."]
     },
     {
       "institution": "University of Trento",
@@ -106,9 +100,7 @@
       "studyType": "M.Sc.",
       "startDate": "2021-09",
       "endDate": "2023-07",
-      "courses": [
-        "110/110 cum laude."
-      ]
+      "courses": ["110/110 cum laude."]
     }
   ],
   "publications": [
@@ -180,13 +172,7 @@
     {
       "organization": "Conferences",
       "position": "Reviewer",
-      "highlights": [
-        "CVPR: 2024, 2025, 2026",
-        "ICLR: 2026, 2027",
-        "NeurIPS: 2026",
-        "AAAI: 2027",
-        "ICPR: 2024"
-      ]
+      "highlights": ["CVPR: 2024, 2025, 2026", "ICLR: 2026, 2027", "NeurIPS: 2026", "AAAI: 2027", "ICPR: 2024"]
     },
     {
       "organization": "Journals",
@@ -252,15 +238,7 @@
     },
     {
       "name": "Tools and Methods",
-      "keywords": [
-        "PyTorch",
-        "Google Colab",
-        "AWS",
-        "Parameter-efficient fine-tuning",
-        "Vision transformers",
-        "BERT",
-        "k-means"
-      ]
+      "keywords": ["PyTorch", "Google Colab", "AWS", "Parameter-efficient fine-tuning", "Vision transformers", "BERT", "k-means"]
     }
   ],
   "interests": [
